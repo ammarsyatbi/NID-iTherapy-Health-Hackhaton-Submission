@@ -8,7 +8,7 @@ iTherapy is a system that assist physiotheraphist and physiotherapy patients. Us
 * Ammar Syatbi 
 * Haziq Suhaimi
 * Muhammad Irfan
-* Mohammad Izzat
+* Izzat Amar
 * Shafiq Aiman
 
 #### Pre-requisite Installation ####
