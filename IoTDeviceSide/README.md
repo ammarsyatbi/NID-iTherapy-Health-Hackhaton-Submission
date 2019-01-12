@@ -34,13 +34,6 @@ Examples
 open all
 Basic Examples  (2)
 Get roll-pitch-yaw angles from the rotation matrix:
-
-In[1]:=	
- 
-✕
-m = RollPitchYawMatrix[{Pi/4, Pi/2, 0}];
-Copy to clipboard.
-In[2]:=	
  
 Copy to clipboard.
 Out[2]=	
