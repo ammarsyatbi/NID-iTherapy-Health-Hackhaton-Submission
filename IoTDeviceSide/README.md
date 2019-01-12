@@ -13,6 +13,9 @@ RollPitchYawAngles[r,{a,b,c}] gives angles {α,β,γ} such that RollPitchYawMatr
 RollPitchYawAngles[r] is equivalent to RollPitchYawAngles[r,{3,2,1}], the z-y-x rotation.
 The default z-y-x angles RollPitchYawAngles[r,{3,2,1}] decompose rotation into three steps:
 
+<img src="https://reference.wolfram.com/language/ref/Files/RollPitchYawAngles.en/Image_1.gif" height="122" width="507" class="" alt="">
+
+
 The rotation axes a, b, and c can be any integer 1, 2, or 3, but there are only twelve combinations that are general enough to be able to specify any 3D rotation.
 Rotations with the first and last axis repeated:
 {3,2,3}	z-y-z rotation	
