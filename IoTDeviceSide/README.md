@@ -29,22 +29,5 @@ Rotations with all three axes different:
 {3,1,2}	z-x-y rotation	
 {3,2,1}	z-y-x rotation (default)	
 Rotations with subsequent axes repeated may not be invertible since these are not capable of representing all possible rotations in 3D.
-close
-Examples
-open all
-Basic Examples  (2)
-Get roll-pitch-yaw angles from the rotation matrix:
- 
-Copy to clipboard.
-Out[2]=	
 
-Get roll-pitch-yaw angles from the rotation matrix with the given rotation order:
-
-In[1]:=	
- 
-Copy to clipboard.
-In[2]:=	
- 
-Copy to clipboard.
-Out[2]=	
 
